@@ -1,6 +1,6 @@
 # LogicApp
 A Java program to identify properties of sentences and arguments of truth-functional logic.
-Download the file LogicApp.jar for the application
+Download the file *LogicApp.jar* for the application
 
 ## Instruction
 The program only aims to evaluate the structure of a sentence or argument, not a natural sentence. 
