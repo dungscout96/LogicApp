@@ -1,5 +1,4 @@
 # LogicApp
-Truth-Functional Logic Program
 A Java program to identify properties of sentences and arguments of truth-functional logic.
 Locate the application at LogicApp\out\artifacts\LogicApp_jar\LogicApp.jar
 
