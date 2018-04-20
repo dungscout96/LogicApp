@@ -3,7 +3,7 @@ Built as an interdisciplinary project connecting Philosophy and Computer Science
 
 ### Input format ###
 Truth functional connectives supported are **if**, **and**, **or**, **not**.
-The program only takes sentence variables, not a whole sentence. The variable letter can be lowercase or uppercase.
+The program only takes sentence variables, not a natural sentence. The variable letter can be lowercase or uppercase.
 A sentence can be atomic or compound. Compound sentence should be written in the form _connective_(_sentence1_ [,_sentence2_]). Examples of valid input:
 - a
 - c
