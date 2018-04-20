@@ -1,5 +1,5 @@
 # LogicApp
-Built as an interdisciplinary project connecting Philosophy and Computer Science while taking Logic class, LogicApp is a Java program that can (1) evaluate logical equivalency among sentence forms, (2) determine the logical properties of a sentence (tautology, contradiction, or contingent), and (3) test for validity of an argument.
+Built as an interdisciplinary project connecting Philosophy and Computer Science while taking Logic class, LogicApp is a Java program that can (1) evaluate logical equivalency among sentence forms, (2) determine the logical properties of a sentence (tautology, contradiction, or contingent), and (3) test for validity of an argument. All evaluations are made by simulating truth table.
 
 ### Input format ###
 Truth functional connectives supported are **if**, **and**, **or**, **not**.
